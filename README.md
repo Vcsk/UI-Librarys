@@ -1,1 +1,1 @@
-# Kavo Ui Library
+# Kavo
