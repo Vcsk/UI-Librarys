@@ -1,4 +1,3 @@
-
 do local GUI = game.CoreGui:FindFirstChild("SOMEXHUB");if GUI then GUI:Destroy();end;if _G.Color == nil then
        _G.Color = Color3.fromRGB(255,255,255)
    end 
